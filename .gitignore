@@ -218,3 +218,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# CarVision AI
+data/*
+!data/.gitkeep
+!data/README.md
+*.h5
+*.pt
+*.pth
+*.keras
+*.zip
+.DS_Store
+.vscode/
