@@ -1,0 +1,27 @@
+# CarVision AI - Dependencies
+
+# Core Machine Learning & Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Dataset handling & Hugging Face
+datasets>=2.18.0
+pyarrow>=14.0.0
+
+# Data Science & Numerical
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.2.0
+
+# Image Processing & Visualization
+pillow>=9.5.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+opencv-python>=4.8.0
+
+# Web Application Demo
+streamlit>=1.28.0
+
+# Utilities
+tqdm>=4.65.0
+requests>=2.31.0

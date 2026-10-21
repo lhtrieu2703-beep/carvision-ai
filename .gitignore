@@ -223,6 +223,8 @@ __marimo__/
 data/*
 !data/.gitkeep
 !data/README.md
+results/*
+!results/.gitkeep
 *.h5
 *.pt
 *.pth
